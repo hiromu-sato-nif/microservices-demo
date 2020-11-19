@@ -30,6 +30,8 @@ Looking for the old Hipster Shop frontend interface? Use the [manifests](https:/
 | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | [![Screenshot of store homepage](./docs/img/online-boutique-frontend-1.png)](./docs/img/online-boutique-frontend-1.png) | [![Screenshot of checkout screen](./docs/img/online-boutique-frontend-2.png)](./docs/img/online-boutique-frontend-2.png) |
 
+## Quickstart (GKE+Istio)
+[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.png)](https://ssh.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/hiromu-sato-nif/microservices-demo.git&cloudshell_tutorial=tutorial.md)
 
 ## Quickstart (GKE)
 
